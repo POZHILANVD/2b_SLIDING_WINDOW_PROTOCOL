@@ -44,5 +44,12 @@ while True:
 ![2b client](https://github.com/POZHILANVD/2b_SLIDING_WINDOW_PROTOCOL/assets/144870498/9e141a02-96f2-45d4-b7df-f5ea4e5a4dc7)
 # Server:
 ![2b server](https://github.com/POZHILANVD/2b_SLIDING_WINDOW_PROTOCOL/assets/144870498/c95def4a-2b44-494e-a68f-dc7e284b3338)
-## RESULT
+## RESULT:
 Thus, python program to perform stop and wait protocol was successfully executed
+
+
+
+
+
+
+
